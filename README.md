@@ -1,0 +1,2 @@
+# reactnativeSozluk
+ React Native  Sözlük
