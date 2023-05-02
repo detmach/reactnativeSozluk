@@ -1,0 +1,39 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".bundle": true,
+    ".vscode": true,
+    "android": true,
+    "ios": true,
+    ".gitignore": true,
+    ".node-version": true,
+    ".watchmanconfig": true,
+    "Gemfile": true,
+    "app.json": true,
+    ".svgorc.json": true,
+    ".eslintrc.js": true,
+    ".prettierrc.js": true,
+    "metro.config.js": true,
+    "babel.config.js": true
+  },
+  "hide-files.files": [
+    ".vscode",
+    "android",
+    "ios",
+    ".gitignore",
+    ".node-version",
+    ".watchmanconfig",
+    "Gemfile",
+    "app.json",
+    ".svgorc.json",
+    ".eslintrc.js",
+    ".prettierrc.js",
+    "metro.config.js",
+    "babel.config.js"
+  ]
+}
